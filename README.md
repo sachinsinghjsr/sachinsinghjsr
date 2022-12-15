@@ -1,4 +1,4 @@
-[![MasterHead](http://www.lovelocaldesign.com/wp-content/uploads/2016/09/process-dev-banner2.gif)]
+
 
 <h1 align="center">Hi 👋, I'm Sachin Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinsinghjsr&label=Profile%20views&color=0e75b6&style=flat" alt="sachinsinghjsr" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sachinsinghjsr" target="blank"><img src="https://img.shields.io/twitter/follow/sachinsinghjsr?logo=twitter&style=for-the-badge" alt="sachinsinghjsr" /></a> </p>
+
 
 - 🔭 I’m currently developing **a complete product based website**
 
